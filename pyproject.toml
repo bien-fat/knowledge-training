@@ -5,5 +5,9 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "unsloth>=2025.6.8",
+    "jupyterlab>=4.4.4",
+    "pre-commit>=4.2.0",
+    "transformers==4.52.4",
+    "unsloth==2025.6.4",
+    "unsloth-zoo==2025.6.4",
 ]
